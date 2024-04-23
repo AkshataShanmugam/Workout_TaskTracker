@@ -1,0 +1,11 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Production build directory
+/build
+/dist
+
+# Environment variables
+.env*
